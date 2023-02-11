@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5afd95af6602f2149888b4847accbb1f, type: 3}
+  m_Name: Question 4
+  m_EditorClassIdentifier: 
+  _questionText: This is still considered an adventure game despite it being literally
+    a quiz and not an adventure at all?
+  _answers:
+  - {fileID: 11400000, guid: 8c0aa936e82396f4c9a5b65524ea58bd, type: 2}
+  - {fileID: 11400000, guid: 1f8ef120d55b6264a847aa905f616239, type: 2}
+  - {fileID: 11400000, guid: 7f45fedb9fd07394c85abea3a03a0852, type: 2}
+  - {fileID: 11400000, guid: 80697a56298aa9a4dbde23bfcb98af8e, type: 2}
+  _correctChoice: 5

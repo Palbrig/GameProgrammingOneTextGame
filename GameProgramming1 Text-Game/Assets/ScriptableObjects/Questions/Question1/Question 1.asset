@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5afd95af6602f2149888b4847accbb1f, type: 3}
+  m_Name: Question 1
+  m_EditorClassIdentifier: 
+  _questionText: Who created C#?
+  _answers:
+  - {fileID: 11400000, guid: 5b1bef8033b02994c98469789e808d4a, type: 2}
+  - {fileID: 11400000, guid: 711f3e9752ba19a47a216801afc0810b, type: 2}
+  - {fileID: 11400000, guid: 5f00d034802010e45acd1b4f25c2f4c4, type: 2}
+  - {fileID: 11400000, guid: e739a87fed841ec429d2b3645c7ed5a4, type: 2}
+  _correctChoice: 2
